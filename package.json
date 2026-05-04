@@ -1,0 +1,18 @@
+{
+  "name": "@flothemaker/bmad-coding-standards",
+  "version": "1.0.0",
+  "description": "Multi-provider coding standards enforcement for BMAD agents",
+  "bin": {
+    "bmad-coding-standards": "./install.js"
+  },
+  "keywords": ["bmad", "bmad-method", "coding-standards", "style-guide", "google"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flothemaker/bmad-coding-standards"
+  },
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "yaml": "^2.3.0"
+  }
+}
