@@ -1,6 +1,6 @@
 {
   "name": "@flothemaker/bmad-coding-standards",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multi-provider coding standards enforcement for BMAD agents",
   "bin": {
     "bmad-coding-standards": "./install.js"
