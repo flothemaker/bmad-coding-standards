@@ -114,6 +114,6 @@ npx @flothemaker/bmad-coding-standards
 
 ## License
 
-[MIT](license.md)
+[MIT](LICENSE)
 
 The [Google styleguides-skills](https://github.com/testdino-hq/google-styleguides-skills) is also MIT licensed.
