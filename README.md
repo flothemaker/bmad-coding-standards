@@ -27,7 +27,7 @@ Select your style guide provider and the installer handles the rest.
 
 | Provider | Languages |
 |----------|-----------|
-| Google | AngularJS, C++, C#, Common Lisp, Go, HTML/CSS, Java, JavaScript, JSON, Markdown, Objective-C, Python, R, Shell, Swift, TypeScript, Vim Script |
+| [Google](https://github.com/testdino-hq/google-styleguides-skills) | AngularJS, C++, C#, Common Lisp, Go, HTML/CSS, Java, JavaScript, JSON, Markdown, Objective-C, Python, R, Shell, Swift, TypeScript, Vim Script |
 
 ## File Structure
 
@@ -114,4 +114,6 @@ npx @flothemaker/bmad-coding-standards
 
 ## License
 
-MIT
+[MIT](license.md)
+
+The [Google styleguides-skills](https://github.com/testdino-hq/google-styleguides-skills) is also MIT licensed.
