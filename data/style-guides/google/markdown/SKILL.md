@@ -68,12 +68,6 @@ def hello():
 - Code reviews
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/markdown
-```
-
 ## Full Guide
 
 See [markdown.md](markdown.md) for complete details, examples, and edge cases.

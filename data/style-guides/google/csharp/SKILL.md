@@ -162,12 +162,6 @@ public class UserService
 - Setting up `.editorconfig` rules
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/csharp
-```
-
 ## Full Guide
 
 See [csharp.md](csharp.md) for complete details, examples, and edge cases.

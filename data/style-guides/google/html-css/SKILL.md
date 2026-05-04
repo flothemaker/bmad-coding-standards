@@ -60,12 +60,6 @@ description: Google's official HTML/CSS style guide. Covers formatting, naming, 
 - Setting up linting rules
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/html-css
-```
-
 ## Full Guide
 
 See [html-css.md](html-css.md) for complete details, examples, and edge cases.

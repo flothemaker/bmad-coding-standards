@@ -55,12 +55,6 @@ description: Google's official JSON style guide. Covers formatting, naming conve
 - Code reviews
 - API documentation
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/json
-```
-
 ## Full Guide
 
 See [json.md](json.md) for complete details, examples, and edge cases.

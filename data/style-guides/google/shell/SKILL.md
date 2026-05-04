@@ -60,12 +60,6 @@ main "$@"
 - Setting up ShellCheck
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/shell
-```
-
 ## Full Guide
 
 See [shell.md](shell.md) for complete details, examples, and edge cases.

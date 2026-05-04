@@ -175,12 +175,6 @@ NS_ASSUME_NONNULL_END
 - Code reviews
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/objective-c
-```
-
 ## Full Guide
 
 See [objective-c.md](objective-c.md) for complete details, examples, and edge cases.

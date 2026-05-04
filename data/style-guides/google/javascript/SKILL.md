@@ -174,12 +174,6 @@ try {
 - Setting up ESLint rules
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/javascript
-```
-
 ## Full Guide
 
 See [javascript.md](javascript.md) for complete details, examples, and edge cases.

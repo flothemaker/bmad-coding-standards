@@ -49,12 +49,6 @@ calculate_user_stats <- function(users, min_age = 18) {
 - Code reviews
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/r
-```
-
 ## Full Guide
 
 See [r.md](r.md) for complete details, examples, and edge cases.

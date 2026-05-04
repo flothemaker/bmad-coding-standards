@@ -145,12 +145,6 @@ import java.util.*;  // no wildcard imports
 - Setting up Checkstyle rules
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/java
-```
-
 ## Full Guide
 
 See [java.md](java.md) for complete details, examples, and edge cases.

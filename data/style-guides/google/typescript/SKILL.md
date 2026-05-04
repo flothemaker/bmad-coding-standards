@@ -139,12 +139,6 @@ import * as everything from './module';
 - Setting up linting rules
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/typescript
-```
-
 ## Full Guide
 
 See [typescript.md](typescript.md) for complete details, examples, and edge cases.

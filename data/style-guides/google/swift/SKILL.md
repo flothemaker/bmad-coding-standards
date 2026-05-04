@@ -221,12 +221,6 @@ func process() {
 - Setting up SwiftLint rules
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/swift
-```
-
 ## Full Guide
 
 See [swift.md](swift.md) for complete details, examples, and edge cases.

@@ -158,12 +158,6 @@ def add_item(item: str, items: Optional[List[str]] = None) -> List[str]:
 - Setting up linting rules (pylint, flake8)
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/python
-```
-
 ## Full Guide
 
 See [python.md](python.md) for complete details, examples, and edge cases.

@@ -156,12 +156,6 @@ const std::string& str;
 - Setting up clang-format rules
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/cpp
-```
-
 ## Full Guide
 
 See [cpp.md](cpp.md) for complete details, examples, and edge cases.

@@ -166,12 +166,6 @@ import (
 - Setting up linting rules (golangci-lint)
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/go
-```
-
 ## Full Guide
 
 See [go.md](go.md) for complete details, examples, and edge cases.

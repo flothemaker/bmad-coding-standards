@@ -178,12 +178,6 @@ Ensures the connection is closed on exit."
 - Code reviews
 - Onboarding new team members
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/common-lisp
-```
-
 ## Full Guide
 
 See [common-lisp.md](common-lisp.md) for complete details, examples, and edge cases.

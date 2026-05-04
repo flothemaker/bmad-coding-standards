@@ -206,12 +206,6 @@ let l:message = 'Hello, ' . l:name . '!'
 - Code reviews for Vimscript
 - Onboarding new contributors to Vim plugin projects
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/vim-script
-```
-
 ## Full Guide
 
 See [vim-script.md](vim-script.md) for complete details, examples, and edge cases.

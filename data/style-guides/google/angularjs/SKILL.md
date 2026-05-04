@@ -184,12 +184,6 @@ angular.module('myApp', []).controller(...).service(...).directive(...);
 - Code reviews for legacy Angular projects
 - Onboarding new team members to AngularJS projects
 
-## Install
-
-```bash
-npx skills add testdino-hq/google-styleguides-skills/angularjs
-```
-
 ## Full Guide
 
 See [angularjs.md](angularjs.md) for complete details, examples, and edge cases.
